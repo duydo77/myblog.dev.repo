@@ -9,4 +9,4 @@ tags:        ["tag1", "tag2"]
 categories:  ["Tech" ]
 ---
 
-Hello this is my blog
+Davidos on the mic

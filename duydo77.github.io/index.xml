@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>David do on the mic</title>
+    <title>Davidos ON THE MIC</title>
     <link>https://duydo77.github.io/</link>
-    <description>Recent content on David do on the mic</description>
+    <description>Recent content on Davidos ON THE MIC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://duydo77.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://duydo77.github.io/post/testpage/</guid>
-      <description>Hello this is my blog</description>
+      <description>Davidos on the mic</description>
     </item>
     
   </channel>
